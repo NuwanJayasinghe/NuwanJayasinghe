@@ -1,6 +1,8 @@
 # Hi, I'm Nuwan Jayasinghe 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NuwanJayasinghe&color=blueviolet&style=plastic)
+[![GitHub followers](https://img.shields.io/github/followers/NuwanJayasinghe?label=Follow&style=social)](https://github.com/NuwanJayasinghe?tab=followers)
+[![Linkedin Badge](https://img.shields.io/badge/-nuwanjayasinghe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nuwanjayasinghe/)](https://www.linkedin.com/in/nuwanjayasinghe/)
 
 I'm an experienced Software Engineer with 7 years of expertise in creating user-centric apps using multiple programming languages. Proven track record of delivering successful projects for Europe and the US markets, focusing on effective integration and app performance optimization.
 
@@ -18,9 +20,9 @@ I'm an experienced Software Engineer with 7 years of expertise in creating user-
 
 ---
 
-## Skills and Technologies
+## 🛠️ Skills & Technologies
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white" alt="Scala"/>
   <img src="https://img.shields.io/badge/-.Net-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".Net"/>
@@ -37,7 +39,7 @@ I'm an experienced Software Engineer with 7 years of expertise in creating user-
 
 ---
 
-## Experience
+## 💼 Experience
 
 ### 📍 Sogeti - Software Engineering Intern
 **Mar 2024 - Present | Borlänge, Sweden**
@@ -73,34 +75,45 @@ I'm an experienced Software Engineer with 7 years of expertise in creating user-
 
 ---
 
-## Education
+## 🎓 Education
 
-### 🎓 Dalarna University | Sweden
+### Dalarna University | Sweden
 **Master Programme in Business Intelligence, Microdata Analysis**
 *Jan 2023 - Jan 2024*
 
 - Awarded Dalarna University Excellence Scholarship.
 - Skills acquired: Data Visualization & Analysis, Data Manipulation, Statistical Analysis with Python & R.
 
-### 🎓 University of Westminster | UK
+### University of Westminster | UK
 **Master of Science (MSc), Advanced Software Engineering**
 *Jan 2015 - Nov 2017*
 
-### 🎓 University College Dublin | Ireland
+### University College Dublin | Ireland
 **Bachelor of Science (B.Sc.) (Hons), Management Information Systems**
 *Jan 2012 - Oct 2015*
 
 ---
 
-## Contact
+## 🌟 Fun Fact
 
-<p align="left">
+⚡ I love hiking and exploring new technologies!
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/nuwanjayasinghe">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/NuwanJayasinghe">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:nuwanjayasinghe@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
+
 
 
