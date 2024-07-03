@@ -1,4 +1,4 @@
-# Hi there, I'm Nuwan Jayasinghe 👋
+# Hi, I'm Nuwan Jayasinghe 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NuwanJayasinghe&color=blueviolet&style=plastic)
 
@@ -108,14 +108,5 @@ I'm an experienced Software Engineer with 7 years of expertise in creating user-
 
 ---
 
-## GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=NuwanJayasinghe&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
-</p>
-
-## GitHub Activity Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=NuwanJayasinghe&theme=react-dark" alt="GitHub Activity Graph"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NuwanJayasinghe&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NuwanJayasinghe&layout=compact&theme=radical)
