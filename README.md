@@ -16,7 +16,6 @@ I'm an experienced Software Engineer with 7 years of expertise in creating user-
 - 💬 Ask me about Python, Scala, .Net, iOS Development, and project management
 - 📫 How to reach me: [nuwanjayasinghe@hotmail.com](mailto:nuwanjayasinghe@hotmail.com)
 - 🌍 Based in Stockholm, Sweden
-- ⚡ Fun fact: I love hiking and exploring new technologies
 
 ---
 
