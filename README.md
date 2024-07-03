@@ -106,7 +106,4 @@ I'm an experienced Software Engineer with 7 years of expertise in creating user-
   </a>
 </p>
 
----
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NuwanJayasinghe&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NuwanJayasinghe&layout=compact&theme=radical)
