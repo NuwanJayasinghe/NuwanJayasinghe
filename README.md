@@ -10,9 +10,6 @@ I'm an experienced Software Engineer with 7 years of expertise in creating user-
 
 ## About Me
 
-- 🔭 I’m currently working at **Sogeti** as a Software Engineering Intern
-- 🌱 I’m currently learning advanced techniques in data pipeline development and optimization
-- 👯 I’m looking to collaborate on open-source projects and innovative tech solutions
 - 💬 Ask me about Python, Scala, .Net, iOS Development, and project management
 - 📫 How to reach me: [nuwanjayasinghe@hotmail.com](mailto:nuwanjayasinghe@hotmail.com)
 - 🌍 Based in Stockholm, Sweden
