@@ -38,7 +38,7 @@ I'm an experienced Software Engineer with 7 years of expertise in creating user-
 ## 💼 Experience
 
 ### 📍 Sogeti - Software Engineering Intern
-**Mar 2024 - Present | Borlänge, Sweden**
+**Mar 2024 - Jul 2024 | Borlänge, Sweden**
 
 - Developed and optimized data pipelines using Jenkins and GitHub Actions.
 - Implemented ETL processes using Databricks & Fabric with Python & Scala.
